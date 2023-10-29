@@ -5,3 +5,6 @@
 ##### Heading5
 ###### Heading6
 ![Image of Messi](https://github.com/venommz7/skills-communicate-using-markdown/blob/main/peakpx.jpg)
+``` javascript
+var myVar = "Hello, world!";
+```
