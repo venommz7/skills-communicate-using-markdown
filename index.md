@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Played for Barcelona
+- [x] Played for Inter Miami
+- [ ] Played for FC Kuttipuram
